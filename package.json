@@ -1,0 +1,20 @@
+{
+  "name": "my-books-blog",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.8.4",
+    "connect-livereload": "^0.6.1",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "livereload": "^0.9.3",
+    "pg": "^8.14.1"
+  }
+}
